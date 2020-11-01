@@ -1,0 +1,4 @@
+#Sun Nov 01 17:31:52 GMT 2020
+base.0=C\:\\Users\\diogo\\AndroidStudioProjects\\ICM\\WalkMyAndroid-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
