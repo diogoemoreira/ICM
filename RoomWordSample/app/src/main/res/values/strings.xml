@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab6RoomWordSample</string>
+    <string name="app_name">RoomWordSample</string>
     <string name="add_word">Add word</string>
     <string name="hint_word">Word...</string>
     <string name="button_save">Save</string>
